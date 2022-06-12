@@ -27,6 +27,11 @@ Também podendo observar um produto e ser notificado quando esse produto ser reg
     - Push Notification;
     - Styled-Components Native;
     - Google Payments.
+
+- **Deploy:**
+    - AWS EC2;
+    - Mongo Atlas.
+
 ## Funcionalidades
 
 - Localização;
