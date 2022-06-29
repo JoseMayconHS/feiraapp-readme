@@ -15,6 +15,7 @@ Também podendo observar um produto e ser notificado quando esse produto ser reg
     - Node;
     - Express;
     - MongoDB Serveless;
+    - Schendule;
     - Firebase Message.
 
 - **Dashboard:**
@@ -32,6 +33,7 @@ Também podendo observar um produto e ser notificado quando esse produto ser reg
 
 - **Deploy:**
     - AWS EC2;
+    - Play Store;
     - Mongo Atlas.
 
 ## Funcionalidades
