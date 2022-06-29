@@ -56,7 +56,7 @@ Também podendo observar um produto e ser notificado quando esse produto ser reg
 
 ## Logo
 
-<img width='300' alt='Ícone' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/icon.png'>
+<img width='150' alt='Ícone' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/icon.png'>
 
 ## Screenshots
 <table>
