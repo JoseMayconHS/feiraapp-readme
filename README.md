@@ -59,23 +59,33 @@ Também podendo observar um produto e ser notificado quando esse produto ser reg
 <img width='300' alt='Ícone' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/icon.png'>
 
 ## Screenshots
-
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/1.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/2.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/3.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/4.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/5.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/6.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/7.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/8.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/9.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/10.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/11.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/12.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/13.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/14.png'>
-<img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/15.png'>
-
+<table>
+    <tr>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/1.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/2.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/3.png'></td>
+    </tr>
+        <tr>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/4.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/5.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/6.png'></td>
+    </tr>
+        <tr>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/7.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/8.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/9.png'></td>
+    </tr>
+        <tr>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/10.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/11.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/12.png'></td>
+    </tr>
+        <tr>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/13.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/14.png'></td>
+        <td><img width='300' alt='' src='https://s3.sa-east-1.amazonaws.com/jmayconhs.repos/feiraapp/app/15.png'></td>
+    </tr>
+</table>
 
 
 ## Etiquetas
