@@ -8,6 +8,9 @@ Um aplicativo para registrar e gerenciar compras feitas nos supermercados, dispo
 
 Também podendo observar um produto e ser notificado quando esse produto ser registrado com um valor a baixo do definido (Função paga).
 
+## Repositórios
+- [Backend](https://github.com/JoseMayconHS/feiraapp-backend)
+
 
 ## Tecnologias
 
