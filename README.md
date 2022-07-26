@@ -1,7 +1,6 @@
 
 # Feira App 
 
-Descrição do meu projeto Feira App. 
 Um projeto Fullstack com o código privado no meu Github.
 
 Um aplicativo para registrar e gerenciar compras feitas nos supermercados, disponibilizando preços dos produtos/alimentos para o mesmo e outros usuários, seja da mesma cidade, estado ou pais, dependendo do plano de assinatura.
@@ -36,16 +35,18 @@ Também podendo observar um produto e ser notificado quando esse produto ser reg
 
 - **Deploy:**
     - AWS EC2;
+    - PM2;
     - Play Store;
     - Mongo Atlas.
 
 ## Funcionalidades
 
-- Localização;
-- Notificação Push com Firebase; 
-- Banco de dados offline com RealmDB **(sincronizando com a API quando tiver com internet)**;
-- Sistema de faturamento do Google Play;
-- Importação/Exportação de dados das compras.
+- Localização `(API & MOBILE)`;
+- Notificação Push com Firebase `(API & MOBILE)`; 
+- Painel administrativo `(API & WEB)`;
+- Banco de dados offline com RealmDB **(sincronizando com a API quando tiver com internet)** `(MOBILE)`;
+- Sistema de faturamento do Google Play `(MOBILE)`;
+- Importação/Exportação de dados das compras `(MOBILE)`.
 
 
 ## Stack utilizada
