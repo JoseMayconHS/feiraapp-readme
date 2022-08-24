@@ -1,4 +1,22 @@
 
+# Importante!
+
+Desativei a API.
+
+Desativei alguns recursos do App:
+
+   - Notificações push;
+   - Reportes;
+   - Restauração dos dados;
+   - Gateway de pagamentos;
+   - Sincronia com o servidor.
+
+Liberei alguns recursos do App:
+    
+   - Seleção de estados e cidades;
+   - Gráficos em feiras;
+   - Gráficos em supermercados.
+
 # Feira App 
 
 Um projeto Fullstack com o código privado no meu Github.
